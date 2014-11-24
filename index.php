@@ -5,7 +5,8 @@ include 'content/menu';
 ?>
 
 <div id='content'>
-<h1Welkom</h1><br>
+<h1>
+Welkom</h1><br>
 <b>Welkom Op Mijn Site!</b><br>
 Welkom op Mijn SIte we wensen je veel plezier!!!!!
 
